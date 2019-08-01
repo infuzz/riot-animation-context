@@ -6,7 +6,7 @@
 
 ## Demonstration
 
-[riot-animation-context](http://any-code.github.io/animation-context.html "riot-animation-context - Anycode on GitHub")
+[riot-animation-context](https://infuzz.github.io/riot-animation-context/test/ "riot-animation-context - Anycode on GitHub")
 
 Includes animate.css for base animations, these can be overridden or added to in external css.
 
